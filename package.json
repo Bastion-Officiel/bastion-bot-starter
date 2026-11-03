@@ -1,0 +1,22 @@
+{
+  "name": "bastion-bot-starter",
+  "version": "1.0.0",
+  "description": "Modèle de bot prêt à l'emploi pour la plateforme BASTION",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "bastion",
+    "bot",
+    "starter",
+    "template"
+  ],
+  "author": "BASTION Community",
+  "license": "MIT",
+  "dependencies": {
+    "@bastion-hub/bastion.js": "^1.0.2",
+    "dotenv": "^16.4.7"
+  }
+}
+
